@@ -1,0 +1,4 @@
+com.bpctimesync.test.app-androidTest-0 C:\Users\Administrator\WorkBuddy\2026-08-09-10-39-52\BpcTimeSync\app\build\generated\res\resValues\androidTest\debug
+com.bpctimesync.test.app-mergeDebugAndroidTestResources-1 C:\Users\Administrator\WorkBuddy\2026-08-09-10-39-52\BpcTimeSync\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.bpctimesync.test.app-mergeDebugAndroidTestResources-2 C:\Users\Administrator\WorkBuddy\2026-08-09-10-39-52\BpcTimeSync\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.bpctimesync.test.app-merged_res-3 C:\Users\Administrator\WorkBuddy\2026-08-09-10-39-52\BpcTimeSync\app\build\intermediates\merged_res\debugAndroidTest
